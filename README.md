@@ -38,7 +38,7 @@ Async Chat is a lightweight, anonymous real-time chat web app that lets users co
 
 ### 🏠 Main Page
 
-![Main Page](./assets/main-page.png)
+![Main Page](./home.png)
 
 > Landing page with anonymous entry and call-to-action to join the world chat.
 
@@ -46,7 +46,7 @@ Async Chat is a lightweight, anonymous real-time chat web app that lets users co
 
 ### 💬 Chat Interface
 
-![Chat Page](./assets/chat-page.png)
+![Chat Page](./chat.png)
 
 > Real-time global chat with threaded replies and user presence.
 
