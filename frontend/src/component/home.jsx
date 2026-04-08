@@ -261,6 +261,9 @@ export default function LandingPage() {
             onMouseLeave={(e) =>
               (e.currentTarget.style.background = "rgba(124,58,237,0.9)")
             }
+            onClick={() => {
+                navigate("/chat");
+              }}
           >
             Join World Chat
             <ArrowRight className="w-4 h-4 group-hover:translate-x-0.5 transition-transform" />
